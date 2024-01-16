@@ -1,0 +1,14 @@
+{
+    "name": "chithien/lab2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "thienncpc03460"
+        }
+    ],
+    "require": {}
+}
